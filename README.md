@@ -1,5 +1,5 @@
 ### Ola! Eu sou Jefferson Santos 🖐🏽
-👨🏽‍💻 Estudante de programação C# | .Net <br>
+👨🏽‍💻 Estudante de programação Front end <br>
 📧 jefferson.amsantos@hotmail.com <br>
     
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-santos-programador/)
@@ -8,10 +8,10 @@
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonams&show_icons=true&theme=blue-green)
 
 <div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />  
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /><br><br>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+<br><br>
 	
  </div> 
 
