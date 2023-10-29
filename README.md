@@ -1,5 +1,5 @@
 ### Ola! Eu sou Jefferson Santos 🖐🏽
-👨🏽‍💻 Estudante de programação Front end <br>
+👨🏽‍💻 Estudante de programação Back end <br>
 📧 jefferson.amsantos@hotmail.com <br>
     
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-santos-programador/)
