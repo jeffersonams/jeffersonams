@@ -8,7 +8,7 @@
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonams&show_icons=true&theme=blue-green)
 
 <div style="display: inline_block">
-<img align="center" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="center" img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
 <br><br>
