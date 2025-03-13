@@ -8,6 +8,7 @@
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonams&show_icons=true&theme=blue-green)
 
 <div style="display: inline_block">
+<img align="center" img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>	
 <img align="center" img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 <br><br>
@@ -18,4 +19,4 @@
 		
 
            
-          
+        
